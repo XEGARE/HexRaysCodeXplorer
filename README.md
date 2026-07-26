@@ -17,6 +17,12 @@ The Hex-Rays Decompiler plugin for better code navigation in RE process. CodeXpl
 
 The CodeXplorer plugin is one of the [first publicly available](https://www.hex-rays.com/products/decompiler/manual/third_party.shtml) Hex-Rays Decompiler plugins. We keep updated this project [since summer of 2013](https://www.hex-rays.com/contests/2013/) and continue contributing new features frequently. Also most interesting feutures of CodeXplorer have been presented on numerous security conferences like: REcon, ZeroNights, H2HC, NSEC and BHUS :space_invader:
 
+> [!IMPORTANT]
+> **Fork notice:** This repository is a fork of the original [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) project, updated and adapted to support **IDA Pro 9.4** and the corresponding Hex-Rays Decompiler SDK.
+>
+> The original project and its core functionality were developed by the HexRaysCodeXplorer contributors listed below. This fork focuses on compatibility fixes, API migration, and build updates required for modern IDA Pro releases.
+
+
 __Contributors__: 
 
 Alex Matrosov ([@matrosov](https://github.com/matrosov))
